@@ -7,7 +7,7 @@ This project focuses on analyzing the Blinkit dataset to enhance the company's o
 https://github.com/akashbankar2601/blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx
 
 ## Key Insights
-### 1. Best-Selling Products and Categories
+### 1. Best-Selling Products and 
 -To identify the best-selling products and categories in the Blinkit dataset, group the data by product and category, then sum the sales amounts for each group. Sort the results in descending order of total sales to find the top performers. This method provides insights into which products and categories generate the highest revenue.
 
 ## 2. Outlet Establishment by Year
